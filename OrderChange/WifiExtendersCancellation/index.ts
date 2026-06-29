@@ -1,0 +1,1 @@
+export { WifiExtendersCancellationPage } from './WifiExtendersCancellationPage';

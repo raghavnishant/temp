@@ -1,0 +1,1 @@
+export { WifiExtendersOrderedPage } from './WifiExtendersOrderedPage';
